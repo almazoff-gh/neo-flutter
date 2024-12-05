@@ -11,4 +11,5 @@
 9. Работа с параметрами класса
 
 ![img.png](../images/lab5_1.png)
+
 [Код](../labs/lib/lab5.dart)

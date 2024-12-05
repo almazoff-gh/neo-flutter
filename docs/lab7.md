@@ -13,4 +13,5 @@
 11. Использование жестов
 
 ![img.png](../images/lab7_1.png)
+
 [Код](../labs/lib/lab7.dart)

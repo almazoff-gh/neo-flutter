@@ -6,5 +6,6 @@
 4. Автогенерируемая сериализация JSON
 
 ![img.png](../images/lab8_1.png)
+
 [Модель](../labs/lib/lab8.g.dart)
 [Код](../labs/lib/lab8.dart)

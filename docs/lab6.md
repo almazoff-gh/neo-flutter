@@ -9,4 +9,5 @@
 ![img.png](../images/lab6_1.png)
 ![img.png](../images/lab6_2.png)
 ![img.png](../images/lab6_3.png)
+
 [Код](../labs/lib/lab6.dart)
