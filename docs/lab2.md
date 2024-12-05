@@ -8,6 +8,7 @@
 7. Работа с Asset и Image
 8. Работа с Asset и Font
 
+![img.png](../images/lab2_2.png)
 ![img.png](../images/lab2_1.png)
 
 [Код](../labs/lib/lab2.dart)
